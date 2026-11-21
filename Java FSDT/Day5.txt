@@ -1,0 +1,6 @@
+-->Date: 20/11/2026
+#Topics Covered: -->Revision of optional and Date&time api.
+                 -->Introduction to concurrency and parallelism, 
+                 -->Introduction to threads .
+
+#Give task: Code implementation of covered topics related to threads.
