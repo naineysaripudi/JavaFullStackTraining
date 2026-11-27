@@ -1,0 +1,19 @@
+Date: 26/11/26.
+
+#Topics Covered: -->Callable and Runnable interface in java,
+                 -->Briefing on threads and Executor Service.
+                 -->isDone(),get(),cancel(),isCancelled().
+
+#Given task: Code implementation and understanding  of covered topics.
+
+#Important points: 
+
+Runnable -->	Executes a task without returning a result
+Callable -->	Executes a task and returns a result
+Thread -->    Executes tasks concurrently
+ExecutorService	--> Manages and executes threads
+Future	-->  Represents the result of an asynchronous task
+isDone() -->	Checks task completion
+get() --> Retrieves the result (waits if necessary)
+cancel() -->	Attempts to cancel a task
+isCancelled() -->	Checks whether the task was cancelled
